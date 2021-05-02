@@ -12,9 +12,9 @@
   <p align="center">
   <b>Links:</b>
   <br>
-  <a href="https://www.mariobros.info/">DonkeyDong Website</a> |
+  <a href="https://donkeydong.info/">DonkeyDong Website</a> |
 <!--   <a href="https://v1exchange.pancakeswap.finance/#/swap?outputCurrency=0x25f6524c2bfa5eebcc50beafd08525e0786082cf">Buy On Pancakeswap</a> | -->
-<!--   <a href="https://poocoin.app/tokens/0x25f6524c2bfa5eebcc50beafd08525e0786082cf">Live Chart</a> -->
+  <a href="https://poocoin.app/tokens/0xf2c1fe27daa7da130b381986ed8c4e6130300642">Live Chart</a>
     <br />
   <b>Contract Address:</b> 0xf2c1fE27dAa7da130b381986ed8C4e6130300642
     <br />
